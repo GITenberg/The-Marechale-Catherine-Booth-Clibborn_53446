@@ -1,0 +1,26 @@
+_repo: The-Marechale-Catherine-Booth-Clibborn_53446
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strahan, James
+    alias: Strachan, James
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '47374'
+    url: http://www.gutenberg.org/2009/agents/47374
+description: ''
+gutenberg_issued: '2016-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53446'
+  lccn: '14007081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Booth-Clibborn, Catherine, 1860-1955'
+- !lcc 'BX'
+- GITenberg
+title: The Maréchale (Catherine Booth-Clibborn)
+url: http://www.gutenberg.org/ebooks/53446
